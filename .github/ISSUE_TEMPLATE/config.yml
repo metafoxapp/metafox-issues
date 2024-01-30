@@ -2,8 +2,8 @@ blank_issues_enabled: false
 contact_links:
   - name: 💡 Feature Request
     url: https://github.com/metafoxapp/metafox-issues/discussions/new?category=ideas
-    about: If you've got an idea for a new feature in MetaFox, please open a new Discussion with the `Ideals` label
-  - name: 🤔 Usage Question (Github Discussions)
-    url: https://github.com/metafoxapp/metafox-issues/discussions/new?category=q-a
-    about: Open a Discussion in GitHub wih the `Q&A` label
+    about: If you've got an idea for a new feature in MetaFox, please open a new Discussion with the `New Request` label
+  - name: 🤔 Community Discussions
+    url: https://community.phpfox.com/forum/136/general-discussions
+    about: Open a Discussion in phpFox Community
   
